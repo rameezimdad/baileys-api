@@ -1,6 +1,6 @@
 #!/bin/bash
 # Developed by Mohammad Rameez Imdad (Rameez Scripts)
-# WhatsApp: https://wa.me/923224083545 (For Custom Projects)
+# WhatsApp: https://wa.me/923435347417 (For Custom Projects)
 # YouTube: https://www.youtube.com/@rameezimdad (Subscribe for more!)
 #
 # One-shot Baileys API installer for a fresh Ubuntu 22.04/24.04 VPS (run as root)

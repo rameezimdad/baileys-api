@@ -1,7 +1,7 @@
 # VPS Install Guide — Step by Step
 
 Developed by Mohammad Rameez Imdad (Rameez Scripts)
-WhatsApp: https://wa.me/923224083545 (For Custom Projects)
+WhatsApp: https://wa.me/923435347417 (For Custom Projects)
 YouTube: https://www.youtube.com/@rameezimdad (Subscribe for more!)
 
 Complete guide to install this Baileys WhatsApp API on a fresh VPS.

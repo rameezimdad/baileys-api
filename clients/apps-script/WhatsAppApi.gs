@@ -1,6 +1,6 @@
 /**
  * Developed by Mohammad Rameez Imdad (Rameez Scripts)
- * WhatsApp: https://wa.me/923224083545 (For Custom Projects)
+ * WhatsApp: https://wa.me/923435347417 (For Custom Projects)
  * YouTube: https://www.youtube.com/@rameezimdad (Subscribe for more!)
  *
  * WhatsApp API client for Google Apps Script — drop this one file into ANY project.
@@ -102,8 +102,8 @@ function waStatus() { return waFetch_('/status', null, { method: 'get' }); }
 function waIsConnected() { try { return !!waStatus().connected; } catch (e) { return false; } }
 function waMe() { return waFetch_('/me', null, { method: 'get' }); }
 
-// quick smoke test — sends to the dev number
-function waTest() { Logger.log(waSendMessage('923224083545', 'Test from Apps Script ✅')); }
+// quick smoke test — put your own number here
+function waTest() { Logger.log(waSendMessage('923001000001', 'Test from Apps Script ✅')); }
 
 // ===== Google Sheets integration =====
 

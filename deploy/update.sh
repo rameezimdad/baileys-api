@@ -1,6 +1,6 @@
 #!/bin/bash
 # Developed by Mohammad Rameez Imdad (Rameez Scripts)
-# WhatsApp: https://wa.me/923224083545 (For Custom Projects)
+# WhatsApp: https://wa.me/923435347417 (For Custom Projects)
 # YouTube: https://www.youtube.com/@rameezimdad (Subscribe for more!)
 #
 # Pull the latest code and restart. Needs `enable-updates.sh` to have run once.
